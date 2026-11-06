@@ -1,0 +1,15 @@
+COMO USAR (3 passos)
+
+1. Extraia esta pasta "pokedex_app" em C:\projetos
+   (NAO use Area de Trabalho nem OneDrive).
+
+2. De dois cliques em INSTALAR.bat
+   - Ele instala o Flutter em C:\src\flutter, configura o PATH,
+     gera as pastas do Android e baixa as dependencias.
+   - Demora alguns minutos. Precisa de internet e do Git instalado.
+
+3. Abra a pasta C:\projetos\pokedex_app no VS Code
+   (File > Open Folder), instale a extensao "Flutter" quando pedir,
+   ligue um emulador do Android Studio (ou conecte o celular) e aperte F5.
+
+Se algo der erro, me mande o texto que apareceu na janela do INSTALAR.bat.
